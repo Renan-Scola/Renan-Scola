@@ -11,7 +11,7 @@ on:
       run-on: ubuntu-latest
       steps:
         #Snake Animation
-    - uses: Plantane/snk@master
+    - uses: Platane/snk@master
       id: snake-gif
       with:
       github-user-name: Renan-Scola
