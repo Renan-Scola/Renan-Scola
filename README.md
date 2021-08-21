@@ -25,6 +25,6 @@
    <a href="https://instagram.com/renanscola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://youtu.be/SHOHaAmvyd8" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
-    ![Snake animation](https://github.com/renan-scola/renan-scola/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Renan-Scola/Renan-Scola/blob/output/github-contribution-grid-snake.svg)
    
   </div>
